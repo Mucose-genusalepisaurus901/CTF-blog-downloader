@@ -8,11 +8,14 @@
 
 [本项目灵感来自于学长[YZBRH (BR)](https://github.com/YZBRH)的博客下载助手，对其进行了浏览器的脱离]
 
+作者：debu8ger([incldue](https://github.com/incldue))
+
 
 
 ## 🎯 为什么需要它？
 
 在 AWD、AWDP 或传统的解题赛中，线下环境通常断网或网络极差，如果什么知识点忘了还不能在线搜。
+
 - **离线查阅**：一键同步先知社区、CSDN 、博客园等的深度分析文章。
 - **纯净阅读**：自动剔除网页广告福利、评论区、右侧工具栏，只保留核心 Payload 和解析。
 
@@ -45,6 +48,7 @@
 ## 🛠️ 快速部署
 
 ### 1. 安装依赖
+
 ```bash
 pip install -r requirements.txt
 playwright install chromium
